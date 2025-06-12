@@ -1,1 +1,1 @@
-# News-Portal
+This is a News Portal project built with Onion Architecture, featuring layered separation of responsibilities including Domain Models, Application Logic, Infrastructure Services, and a Web-based Presentation Layer.
