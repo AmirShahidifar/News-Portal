@@ -1,0 +1,18 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+
+namespace NewsPortal.Application.Interfaces
+{
+    public interface INewsRepository
+    {
+        Task<List<News>> GetAllAsync();
+        Task<News?> GetByIdAsync(Guid id);
+        Task CreateAsync(News news);
+        Task UpdateAsync(News news);
+        Task DeleteAsync(Guid id);
+    }
+
+}

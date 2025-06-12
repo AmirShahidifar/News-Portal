@@ -1,0 +1,5 @@
+C:\Users\(AMIR_SH)\NewsPortal\NewsPortal.Infrastructure\obj\Debug\net9.0\NewsPortal.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\(AMIR_SH)\NewsPortal\NewsPortal.Infrastructure\obj\Debug\net9.0\NewsPortal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\(AMIR_SH)\NewsPortal\NewsPortal.Infrastructure\obj\Debug\net9.0\NewsPortal.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\(AMIR_SH)\NewsPortal\NewsPortal.Infrastructure\obj\Debug\net9.0\NewsPortal.Infrastructure.AssemblyInfo.cs
+C:\Users\(AMIR_SH)\NewsPortal\NewsPortal.Infrastructure\obj\Debug\net9.0\NewsPortal.Infrastructure.csproj.CoreCompileInputs.cache

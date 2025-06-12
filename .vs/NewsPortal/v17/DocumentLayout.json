@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\Interfaces\\NewsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewsPortal.Application\\Interfaces\\NewsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\Interfaces\\INewsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewsPortal.Application\\Interfaces\\INewsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\Interfaces\\INewsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewsPortal.Application\\Interfaces\\INewsRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\Entities\\News.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewsPortal.Domain\\Entities\\News.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Infrastructure\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NewsPortal.Infrastructure\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 279,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 164,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\Interfaces\\NewsService.cs",
+              "RelativeDocumentMoniker": "NewsPortal.Application\\Interfaces\\NewsService.cs",
+              "ToolTip": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\Interfaces\\NewsService.cs",
+              "RelativeToolTip": "NewsPortal.Application\\Interfaces\\NewsService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:16:51.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INewsService.cs",
+              "DocumentMoniker": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\Interfaces\\INewsService.cs",
+              "RelativeDocumentMoniker": "NewsPortal.Application\\Interfaces\\INewsService.cs",
+              "ToolTip": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\Interfaces\\INewsService.cs",
+              "RelativeToolTip": "NewsPortal.Application\\Interfaces\\INewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:16:48.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INewsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\Interfaces\\INewsRepository.cs",
+              "RelativeDocumentMoniker": "NewsPortal.Application\\Interfaces\\INewsRepository.cs",
+              "ToolTip": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\Interfaces\\INewsRepository.cs",
+              "RelativeToolTip": "NewsPortal.Application\\Interfaces\\INewsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:16:46.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "NewsPortal.Domain\\Entities\\News.cs",
+              "ToolTip": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\Entities\\News.cs",
+              "RelativeToolTip": "NewsPortal.Domain\\Entities\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:16:37.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "NewsPortal.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "NewsPortal.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T08:15:38.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
