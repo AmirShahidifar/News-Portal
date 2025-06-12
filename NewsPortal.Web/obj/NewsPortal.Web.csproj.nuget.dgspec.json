@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Web\\NewsPortal.Web.csproj": {}
+    "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Web\\NewsPortal.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\NewsPortal.Application.csproj": {
+    "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Application\\NewsPortal.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\NewsPortal.Application.csproj",
+        "projectUniqueName": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Application\\NewsPortal.Application.csproj",
         "projectName": "NewsPortal.Application",
-        "projectPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\NewsPortal.Application.csproj",
+        "projectPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Application\\NewsPortal.Application.csproj",
         "packagesPath": "C:\\Users\\(AMIR_SH)\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\obj\\",
+        "outputPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\NewsPortal.Domain.csproj": {
+    "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\NewsPortal.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj",
         "projectName": "NewsPortal.Domain",
-        "projectPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\NewsPortal.Domain.csproj",
+        "projectPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj",
         "packagesPath": "C:\\Users\\(AMIR_SH)\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\obj\\",
+        "outputPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Infrastructure\\NewsPortal.Infrastructure.csproj": {
+    "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Infrastructure\\NewsPortal.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Infrastructure\\NewsPortal.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Infrastructure\\NewsPortal.Infrastructure.csproj",
         "projectName": "NewsPortal.Infrastructure",
-        "projectPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Infrastructure\\NewsPortal.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Infrastructure\\NewsPortal.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\(AMIR_SH)\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Web\\NewsPortal.Web.csproj": {
+    "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Web\\NewsPortal.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Web\\NewsPortal.Web.csproj",
+        "projectUniqueName": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Web\\NewsPortal.Web.csproj",
         "projectName": "NewsPortal.Web",
-        "projectPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Web\\NewsPortal.Web.csproj",
+        "projectPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Web\\NewsPortal.Web.csproj",
         "packagesPath": "C:\\Users\\(AMIR_SH)\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Web\\obj\\",
+        "outputPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -243,14 +243,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\NewsPortal.Application.csproj": {
-                "projectPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Application\\NewsPortal.Application.csproj"
+              "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Application\\NewsPortal.Application.csproj": {
+                "projectPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Application\\NewsPortal.Application.csproj"
               },
-              "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\NewsPortal.Domain.csproj": {
-                "projectPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\NewsPortal.Domain.csproj"
+              "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj": {
+                "projectPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj"
               },
-              "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Infrastructure\\NewsPortal.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Infrastructure\\NewsPortal.Infrastructure.csproj"
+              "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Infrastructure\\NewsPortal.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Infrastructure\\NewsPortal.Infrastructure.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\NewsPortal.Domain.csproj": {}
+    "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\NewsPortal.Domain.csproj": {
+    "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\NewsPortal.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj",
         "projectName": "NewsPortal.Domain",
-        "projectPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\NewsPortal.Domain.csproj",
+        "projectPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj",
         "packagesPath": "C:\\Users\\(AMIR_SH)\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\(AMIR_SH)\\NewsPortal\\NewsPortal.Domain\\obj\\",
+        "outputPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

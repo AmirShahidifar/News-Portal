@@ -1,13 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\NewsPortal.Application",
-    "\\NewsPortal.Application\\Interfaces",
-    "\\NewsPortal.Domain",
-    "\\NewsPortal.Domain\\Entities",
-    "\\NewsPortal.Infrastructure",
-    "\\NewsPortal.Infrastructure\\Data"
+    ""
   ],
-  "SelectedNode": "\\NewsPortal.Application\\Interfaces\\NewsService.cs",
   "PreviewInSolutionExplorer": false
 }
