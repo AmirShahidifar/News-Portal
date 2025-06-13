@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "NewsPortal.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/NewsPortal.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NewsPortal.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NewsPortal.Domain/1.0.0": {
+      "type": "project",
+      "path": "../NewsPortal.Domain/NewsPortal.Domain.csproj",
+      "msbuildProject": "../NewsPortal.Domain/NewsPortal.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "NewsPortal.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\(AMIR_SH)\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj": {
+              "projectPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

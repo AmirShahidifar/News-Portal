@@ -1024,6 +1024,9 @@
       "NewsPortal.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "NewsPortal.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/NewsPortal.Application.dll": {}
         },
@@ -1046,7 +1049,9 @@
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "9.0.6",
-          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6"
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.6",
+          "NewsPortal.Application": "1.0.0",
+          "NewsPortal.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/NewsPortal.Infrastructure.dll": {}

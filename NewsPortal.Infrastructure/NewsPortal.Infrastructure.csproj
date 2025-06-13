@@ -15,4 +15,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\NewsPortal.Application\NewsPortal.Application.csproj" />
+    <ProjectReference Include="..\NewsPortal.Domain\NewsPortal.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

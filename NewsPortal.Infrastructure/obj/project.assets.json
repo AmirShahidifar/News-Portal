@@ -1598,6 +1598,29 @@
             "rid": "win"
           }
         }
+      },
+      "NewsPortal.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "NewsPortal.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NewsPortal.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NewsPortal.Application.dll": {}
+        }
+      },
+      "NewsPortal.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/NewsPortal.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NewsPortal.Domain.dll": {}
+        }
       }
     }
   },
@@ -4701,13 +4724,25 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "NewsPortal.Application/1.0.0": {
+      "type": "project",
+      "path": "../NewsPortal.Application/NewsPortal.Application.csproj",
+      "msbuildProject": "../NewsPortal.Application/NewsPortal.Application.csproj"
+    },
+    "NewsPortal.Domain/1.0.0": {
+      "type": "project",
+      "path": "../NewsPortal.Domain/NewsPortal.Domain.csproj",
+      "msbuildProject": "../NewsPortal.Domain/NewsPortal.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.EntityFrameworkCore >= 9.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.6",
-      "Microsoft.EntityFrameworkCore.Tools >= 9.0.6"
+      "Microsoft.EntityFrameworkCore.Tools >= 9.0.6",
+      "NewsPortal.Application >= 1.0.0",
+      "NewsPortal.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4741,7 +4776,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Application\\NewsPortal.Application.csproj": {
+              "projectPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Application\\NewsPortal.Application.csproj"
+            },
+            "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj": {
+              "projectPath": "C:\\Users\\(AMIR_SH)\\Source\\Repos\\News-Portal\\NewsPortal.Domain\\NewsPortal.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
